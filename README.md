@@ -28,15 +28,22 @@ Clone the repository or download the source code files.
 1. The text editor window will open, displaying an empty text area.
 2. Use the menu bar to perform various operations:
 - File menu:
--- New: Clears the text area to create a new file.
+-- New: Clears the text area to create a new file. 
+
 -- Open: Opens a file and displays its content in the text area.
+ 
 -- Save: Saves the current text content to a file.
+ 
 -- Close: Exits the text editor.
+
 - Edit menu:
 -- Cut: Cuts the selected text and copies it to the clipboard.
+
 -- Copy: Copies the selected text to the clipboard.
+
 -- Paste: Pastes the contents of the clipboard at the current cursor position.
 - Print: Prints the current text content.
+
 3. To create a new file, click File > New. The text area will be cleared.
 4. To open an existing file, click File > Open and select a file from the file chooser dialog. The content of the file will be displayed in the text area.
 5. To save the current text content to a file, click File > Save and select a file or specify a new file name. The content will be saved to the chosen file.
